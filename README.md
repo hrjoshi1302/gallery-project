@@ -1,10 +1,10 @@
-# 🖼️ Gallery Project (React)
+# Gallery Project (React)
 
 A clean and responsive **Image Gallery App** built using React. This project fetches images from a public API and displays them in a paginated grid layout with smooth user interaction.
 
 ---
 
-## ✨ Features
+## Features
 
 * Fetch images dynamically using **API (Axios)**
 * Pagination support (Next / Previous)
@@ -15,7 +15,7 @@ A clean and responsive **Image Gallery App** built using React. This project fet
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
 * React Components
 * useState & useEffect Hooks
@@ -27,7 +27,7 @@ A clean and responsive **Image Gallery App** built using React. This project fet
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 src/
@@ -39,13 +39,13 @@ src/
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Project Screenshot](./gallery-project.png)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * React (Vite)
 * JavaScript (ES6)
@@ -55,7 +55,7 @@ src/
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 * Images are fetched from the **Picsum API**
 * Each page loads 9 images using pagination
@@ -65,7 +65,7 @@ src/
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ```bash
 git clone https://github.com/hrjoshi1302/gallery-project.git
@@ -76,6 +76,6 @@ npm run dev
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Himal Joshi**

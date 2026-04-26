@@ -68,7 +68,7 @@ src/
 ## 🚀 Installation & Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gallery-project.git
+git clone https://github.com/hrjoshi1302/gallery-project.git
 cd gallery-project
 npm install
 npm run dev

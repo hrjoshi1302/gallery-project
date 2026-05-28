@@ -4,6 +4,10 @@ A clean and responsive **Image Gallery App** built using React. This project fet
 
 ---
 
+## 🚀 Live Demo
+
+https://gallery-project-rosy.vercel.app/
+
 ## Features
 
 * Fetch images dynamically using **API (Axios)**
